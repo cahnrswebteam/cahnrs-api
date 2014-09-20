@@ -1,0 +1,548 @@
+{"nav_items":[
+    {
+		"title": "Home", 
+		"url" : "http://stage.wpdev.cahnrs.wsu.edu",
+		"blog-id": "1",
+		"base-id" : "home_nav",
+		"news-tag": "Latest News",
+		"news-title": "Wine science, ag students complete studies at WSU",
+		"news-url": "#",
+		"news-image": "http://m1.wpdev.cahnrs.wsu.edu/draft/new/imgs/ve-4x3.jpg",
+		"sub_sections" : [
+			{ 
+				"title": "Section 1",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 2",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 3",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			}
+			
+		]
+	},
+    {
+		"title": "Students", 
+		"url" : "http://stage.wpdev.cahnrs.wsu.edu/academics",
+		"blog-id": "9",
+		"base-id" : "students_nav",
+		"news-tag": "Student Spotlight",
+		"news-title": "John Blutarsky",
+		"news-url": "#",
+		"news-image": "http://m1.wpdev.cahnrs.wsu.edu/draft/new/imgs/th-student.jpg",
+		"sub_sections" : [
+			{ 
+				"title": "Section 1",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 2",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 3",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			}
+			
+		]
+		},
+    {
+		"title": "Research", 
+		"url" : "http://stage.wpdev.cahnrs.wsu.edu/research",
+		"blog-id": "9",
+		"base-id" : "research_nav",
+		"news-tag": "Emerging Issues",
+		"news-title": "Apple Harvest Automation",
+		"news-url": "#",
+		"news-image": "http://m1.wpdev.cahnrs.wsu.edu/draft/new/imgs/th-research.jpg",
+		"sub_sections" : [
+			{ 
+				"title": "Section 1",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 2",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 3",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			}
+			
+		]
+		},
+	{
+		"title": "Extension", 
+		"url" : "http://stage.wpdev.cahnrs.wsu.edu/extension",
+		"blog-id": "9",
+		"base-id" : "extension_nav",
+		"news-tag": "Extension at Work",
+		"news-title": "Little Kids Make Big Changes through WSU Extension Food $ense Program",
+		"news-url": "#",
+		"news-image": "http://m1.wpdev.cahnrs.wsu.edu/draft/new/imgs/th-extension.jpg",
+		"sub_sections" : [
+			{ 
+				"title": "Section 1",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 2",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 3",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			}
+			
+		]
+		},
+	{
+		"title": "Alumni & Friends", 
+		"url" : "http://stage.wpdev.cahnrs.wsu.edu/alumni",
+		"blog-id": "9",
+		"base-id" : "alumni_nav",
+		"news-tag": "Alumni Profile",
+		"news-title": "Browns Say, ‘Life Well Lived’ Anchored in WSU Education, Extension Service",
+		"news-url": "#",
+		"news-image": "http://m1.wpdev.cahnrs.wsu.edu/draft/new/imgs/th-alumni.jpg",
+		"sub_sections" : [
+			{ 
+				"title": "Section 1",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 2",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 3",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			}
+			
+		]
+		},
+	{
+		"title": "Faculty & Staff", 
+		"url" : "http://stage.wpdev.cahnrs.wsu.edu/fs",
+		"blog-id": "9",
+		"base-id" : "faculty_nav",
+		"news-tag": "Faculty Focus",
+		"news-title": "Faculty Focus",
+		"news-url": "#",
+		"news-image": "http://m1.wpdev.cahnrs.wsu.edu/draft/new/imgs/ve-4x3.jpg",
+		"sub_sections" : [
+			{ 
+				"title": "Section 1",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 2",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			},
+			{ 
+				"title": "Section 3",
+				"url": "#",
+				"section_items": [
+					{ 
+						"title": "Section Link 1",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 2",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 3",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 4",
+						"url": "#"
+					},
+					{ 
+						"title": "Section Link 5",
+						"url": "#"
+					}
+				] 
+			}
+			
+		]
+		}
+]}
